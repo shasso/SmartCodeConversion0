@@ -44,3 +44,4 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb
+C:\Users\shasso\git\SmartCodeConversion0\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.csprojResolveAssemblyReference.cache

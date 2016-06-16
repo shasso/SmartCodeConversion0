@@ -1,0 +1,4 @@
+C:\Users\shasso\git\SmartCodeConversion0\ProcessWord\bin\Debug\ProcessWord.dll
+C:\Users\shasso\git\SmartCodeConversion0\ProcessWord\bin\Debug\ProcessWord.pdb
+C:\Users\shasso\git\SmartCodeConversion0\ProcessWord\obj\Debug\ProcessWord.dll
+C:\Users\shasso\git\SmartCodeConversion0\ProcessWord\obj\Debug\ProcessWord.pdb

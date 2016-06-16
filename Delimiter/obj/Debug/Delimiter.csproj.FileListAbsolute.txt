@@ -1,0 +1,4 @@
+C:\Users\shasso\git\SmartCodeConversion0\Delimiter\bin\Debug\Delimiter.dll
+C:\Users\shasso\git\SmartCodeConversion0\Delimiter\bin\Debug\Delimiter.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Delimiter\obj\Debug\Delimiter.dll
+C:\Users\shasso\git\SmartCodeConversion0\Delimiter\obj\Debug\Delimiter.pdb

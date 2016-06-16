@@ -17,3 +17,4 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Yoabdictionary copy from adobe Format kept_preprocess.txt
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\ProcessWord.dll
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\ProcessWord.pdb
+C:\Users\shasso\git\SmartCodeConversion0\toUnicode\obj\Debug\toUnicode.csprojResolveAssemblyReference.cache

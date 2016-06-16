@@ -34,3 +34,9 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.pdb
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Yildiz AssyrianGenocide.txt
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\Yildiz AssyrianGenocide.txt
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\Arguments.dll
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+C:\Users\shasso\git\SmartCodeConversion0\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb

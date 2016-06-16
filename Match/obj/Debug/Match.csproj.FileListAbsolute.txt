@@ -1,0 +1,7 @@
+C:\Users\shasso\git\SmartCodeConversion0\Match\bin\Debug\Match.dll
+C:\Users\shasso\git\SmartCodeConversion0\Match\bin\Debug\Match.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Match\bin\Debug\Delimiter.dll
+C:\Users\shasso\git\SmartCodeConversion0\Match\bin\Debug\Delimiter.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Match\obj\Debug\Match.csprojResolveAssemblyReference.cache
+C:\Users\shasso\git\SmartCodeConversion0\Match\obj\Debug\Match.dll
+C:\Users\shasso\git\SmartCodeConversion0\Match\obj\Debug\Match.pdb

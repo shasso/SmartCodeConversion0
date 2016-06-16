@@ -41,7 +41,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\codeConversion\bin\Debug\Arguments.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -67,6 +66,14 @@
     <ProjectReference Include="..\codeConversionUsingFSA\codeConversionUsingFSA.csproj">
       <Project>{15B512A2-98E4-409F-A834-8C7F0922BB2A}</Project>
       <Name>codeConversionUsingFSA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Delimiter\Delimiter.csproj">
+      <Project>{39503603-6d39-4aa4-b556-97897c4fbce8}</Project>
+      <Name>Delimiter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Match\Match.csproj">
+      <Project>{58d63cfe-0dbf-45c6-972c-694f6944bf0c}</Project>
+      <Name>Match</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

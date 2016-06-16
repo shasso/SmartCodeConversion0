@@ -21,3 +21,8 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.dll
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.pdb
+C:\Users\shasso\git\SmartCodeConversion0\readConversionTable\bin\Debug\lookuptable.txt
+C:\Users\shasso\git\SmartCodeConversion0\readConversionTable\bin\Debug\readConversionTable.dll
+C:\Users\shasso\git\SmartCodeConversion0\readConversionTable\bin\Debug\readConversionTable.pdb
+C:\Users\shasso\git\SmartCodeConversion0\readConversionTable\obj\Debug\readConversionTable.dll
+C:\Users\shasso\git\SmartCodeConversion0\readConversionTable\obj\Debug\readConversionTable.pdb

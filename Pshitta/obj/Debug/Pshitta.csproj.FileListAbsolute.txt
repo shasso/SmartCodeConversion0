@@ -34,3 +34,15 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Good Fridayfrshemouiltesfontdinkha.txt
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.exe
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\lookuptable.txt
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\Benny Mazmouri Original.txt
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\Good Fridayfrshemouiltesfontdinkha.txt
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\Pshitta.exe
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\Pshitta.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\Arguments.dll
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\CommandLine.dll
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\readConversionTable.dll
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\bin\Debug\readConversionTable.pdb
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\obj\Debug\Pshitta.csprojResolveAssemblyReference.cache
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\obj\Debug\Pshitta.exe
+C:\Users\shasso\git\SmartCodeConversion0\Pshitta\obj\Debug\Pshitta.pdb

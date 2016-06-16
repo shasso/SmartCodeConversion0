@@ -24,3 +24,9 @@ C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Cop
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Debug\codeConversion.exe
 C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Debug\codeConversion.pdb
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\bin\Debug\alap_bracketed.txt
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\bin\Debug\codeConversion.exe
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\bin\Debug\codeConversion.pdb
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\obj\Debug\codeConversion.csprojResolveAssemblyReference.cache
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\obj\Debug\codeConversion.exe
+C:\Users\shasso\git\SmartCodeConversion0\codeConversion\obj\Debug\codeConversion.pdb

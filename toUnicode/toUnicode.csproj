@@ -58,18 +58,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Delimiter\Delimiter.csproj">
-      <Project>{39503603-6D39-4AA4-B556-97897C4FBCE8}</Project>
-      <Name>Delimiter</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Match\Match\Match.csproj">
-      <Project>{58D63CFE-0DBF-45C6-972C-694F6944BF0C}</Project>
-      <Name>Match</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\ProcessWord\ProcessWord.csproj">
-      <Project>{22176F5C-11F2-484B-8A5D-56DF8EA0630D}</Project>
-      <Name>ProcessWord</Name>
-    </ProjectReference>
     <ProjectReference Include="..\readConversionTable\readConversionTable.csproj">
       <Project>{76CA0E62-7DD4-46FE-B488-83DC6DF5E0A4}</Project>
       <Name>readConversionTable</Name>
