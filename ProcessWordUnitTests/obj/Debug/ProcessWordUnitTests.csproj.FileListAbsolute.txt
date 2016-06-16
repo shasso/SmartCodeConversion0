@@ -1,0 +1,46 @@
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.pdb
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\Arguments.dll
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\Arguments.pdb
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
+G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.dll
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.exe
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
+H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Yildiz AssyrianGenocide.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\Arguments.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\codeConversionUsingFSA.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\obj\Debug\ProcessWordUnitTests.pdb

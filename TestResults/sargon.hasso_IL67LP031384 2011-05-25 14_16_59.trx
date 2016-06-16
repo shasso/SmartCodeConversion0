@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="33d70df9-4584-4fc1-a84b-efc60576cb62" name="sargon.hasso@IL67LP031384 2011-05-25 14:16:59" runUser="NA\sargon.hasso" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="730627c6-8274-40ac-888b-2afc4c03d573">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="G:\VS8Projects\SmartCodeConversion0\TestResults\sargon.hasso_IL67LP031384 2011-05-25 14_16_59">
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0\codeConversion\bin\Debug\Arguments.dll" />
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-05-25T14:16:59.5280903-05:00" queuing="2011-05-25T14:17:00.5125094-05:00" start="2011-05-25T14:17:00.5281351-05:00" finish="2011-05-25T14:17:00.9812804-05:00" />
+  <TestDefinitions>
+    <UnitTest name="retractTest" storage="g:\vs8projects\smartcodeconversion0\processwordunittests\bin\debug\processwordunittests.dll" id="008903d1-5a0b-bcec-283f-d255b6174f6c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="85f043de-d439-4270-a47d-e46eff592754" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="retractTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="008903d1-5a0b-bcec-283f-d255b6174f6c" executionId="85f043de-d439-4270-a47d-e46eff592754" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="85f043de-d439-4270-a47d-e46eff592754" testId="008903d1-5a0b-bcec-283f-d255b6174f6c" testName="retractTest" computerName="IL67LP031384" duration="00:00:00.0375011" startTime="2011-05-25T14:17:00.5437608-05:00" endTime="2011-05-25T14:17:00.9812804-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ProcessWordUnitTests.ProcessWordTest.retractTest threw exception:  codeConversion.ConversionException: invalid character retraction.</Message>
+          <StackTrace>    at codeConversion.ProcessWord.retract(Int32 count) in G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\fsa.cs:line 59
+   at ProcessWordUnitTests.ProcessWordTest.retractTest() in G:\VS8Projects\SmartCodeConversion0\ProcessWordUnitTests\ProcessWordTest.cs:line 80
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

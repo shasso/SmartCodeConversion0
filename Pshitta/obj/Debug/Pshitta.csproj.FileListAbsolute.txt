@@ -1,0 +1,36 @@
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Benny Mazmouri Original.txt
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Benny Mazmouri Original.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Good Fridayfrshemouiltesfontdinkha.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\lookuptable.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\CommandLine.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\readConversionTable.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\readConversionTable.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\CommandLine.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\CommandLine.xml
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\CommandLine.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\readConversionTable.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\readConversionTable.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Arguments.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Debug\Pshitta.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\lookuptable.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Benny Mazmouri Original.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Good Fridayfrshemouiltesfontdinkha.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Debug\Pshitta.pdb

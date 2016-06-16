@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b1043f72-ff0d-479a-9f9a-0d88a51166ad" name="sargon.hasso@IL67LP031384 2011-05-27 14:08:45" runUser="NA\sargon.hasso" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="730627c6-8274-40ac-888b-2afc4c03d573">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="G:\VS8Projects\SmartCodeConversion0 - Copy\TestResults\sargon.hasso_IL67LP031384 2011-05-27 14_08_45">
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Debug\Arguments.dll" />
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-05-27T14:08:45.9022719-05:00" queuing="2011-05-27T14:08:46.7772887-05:00" start="2011-05-27T14:08:46.7929140-05:00" finish="2011-05-27T14:08:47.1835465-05:00" />
+  <TestDefinitions>
+    <UnitTest name="BEGINTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="acbbfbf1-bf45-d0cd-f828-0a35f8901c67">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ddcafa41-bdd3-4dcd-beca-cdd61329b564" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.delimterTest, ProcessWordUnitTests" name="BEGINTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="acbbfbf1-bf45-d0cd-f828-0a35f8901c67" executionId="ddcafa41-bdd3-4dcd-beca-cdd61329b564" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ddcafa41-bdd3-4dcd-beca-cdd61329b564" testId="acbbfbf1-bf45-d0cd-f828-0a35f8901c67" testName="BEGINTest" computerName="IL67LP031384" duration="00:00:00.0197430" startTime="2011-05-27T14:08:46.7929140-05:00" endTime="2011-05-27T14:08:47.1679212-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

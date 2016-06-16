@@ -1,0 +1,36 @@
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\Arguments.dll
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\bin\Debug\Arguments.pdb
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.dll
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\codeConversionUsingFSA.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Arguments.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\Yildiz AssyrianGenocide.txt

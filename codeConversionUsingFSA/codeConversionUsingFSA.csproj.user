@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>-i "Prisoner in Mesopotamia.txt" -o "out_Prisoner in Mesopotamia.txt"</StartArguments>
+  </PropertyGroup>
+</Project>

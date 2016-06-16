@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="38c112f3-c8a8-474f-b51a-9a48771cffeb" name="sargon.hasso@IL67LP031384 2011-05-27 14:13:51" runUser="NA\sargon.hasso" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="730627c6-8274-40ac-888b-2afc4c03d573">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="G:\VS8Projects\SmartCodeConversion0 - Copy\TestResults\sargon.hasso_IL67LP031384 2011-05-27 14_13_51">
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Debug\Arguments.dll" />
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-05-27T14:13:51.5175146-05:00" queuing="2011-05-27T14:13:54.8925794-05:00" start="2011-05-27T14:13:54.9082047-05:00" finish="2011-05-27T14:13:55.3144625-05:00" />
+  <TestDefinitions>
+    <UnitTest name="ENDTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="fac8d00c-da63-89c7-9525-9b031a442cf4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="694ec905-66cf-48ce-9bc0-be3e18b4bc3c" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.delimterTest, ProcessWordUnitTests" name="ENDTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fac8d00c-da63-89c7-9525-9b031a442cf4" executionId="694ec905-66cf-48ce-9bc0-be3e18b4bc3c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="694ec905-66cf-48ce-9bc0-be3e18b4bc3c" testId="fac8d00c-da63-89c7-9525-9b031a442cf4" testName="ENDTest" computerName="IL67LP031384" duration="00:00:00.0321859" startTime="2011-05-27T14:13:54.9082047-05:00" endTime="2011-05-27T14:13:55.3144625-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;&lt;&gt;. Actual:&lt;&gt;&gt;. </Message>
+          <StackTrace>   at ProcessWordUnitTests.delimterTest.ENDTest() in G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\delimterTest.cs:line 78
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

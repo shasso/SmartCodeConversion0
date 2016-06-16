@@ -1,0 +1,11 @@
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Release\codeConversionUsingFSA.exe
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Release\codeConversionUsingFSA.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Release\Arguments.dll
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Release\Arguments.pdb
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\ResolveAssemblyReference.cache
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.exe
+H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\obj\Release\codeConversionUsingFSA.pdb

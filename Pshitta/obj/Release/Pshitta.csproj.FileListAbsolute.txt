@@ -1,0 +1,8 @@
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Release\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Release\Pshitta.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Release\Pshitta.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Release\Arguments.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Release\Arguments.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Release\Pshitta.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\obj\Release\Pshitta.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\Pshitta\bin\Release\Benny Mazmouri Original.txt

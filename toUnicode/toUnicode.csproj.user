@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>-i "Yoabdictionary copy from adobe Format kept_preprocess.txt" -o "21_out.txt" -t IshtarWebFont.txt</StartArguments>
+  </PropertyGroup>
+</Project>

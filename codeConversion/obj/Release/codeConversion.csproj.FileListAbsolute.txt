@@ -1,0 +1,8 @@
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Release\alap_bracketed.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Release\codeConversion.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Release\codeConversion.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Release\Arguments.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Release\Arguments.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Release\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Release\codeConversion.exe
+F:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\obj\Release\codeConversion.pdb

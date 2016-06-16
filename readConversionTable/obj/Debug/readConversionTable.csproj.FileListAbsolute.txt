@@ -1,0 +1,23 @@
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\ResolveAssemblyReference.cache
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.exe
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\CommandLine.dll
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\CommandLine.pdb
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\CommandLine.xml
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\ResolveAssemblyReference.cache
+G:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\lookuptable.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\lookuptable.txt
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\CommandLine.pdb
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\CommandLine.xml
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.dll
+F:\VS8Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\lookuptable.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\bin\Debug\readConversionTable.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\readConversionTable\obj\Debug\readConversionTable.pdb

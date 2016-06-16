@@ -1,0 +1,19 @@
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\lookuptable.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\toUnicode.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\toUnicode.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\CommandLine.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Delimiter.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Match.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\readConversionTable.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\readConversionTable.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Delimiter.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\CommandLine.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Match.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\obj\Debug\toUnicode.exe
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\obj\Debug\toUnicode.pdb
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\21.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\IshtarWebFont.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\Yoabdictionary copy from adobe Format kept_preprocess.txt
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\ProcessWord.dll
+C:\Users\sargon\Documents\Visual Studio 2008\Projects\SmartCodeConversion0 - Copy\toUnicode\bin\Debug\ProcessWord.pdb

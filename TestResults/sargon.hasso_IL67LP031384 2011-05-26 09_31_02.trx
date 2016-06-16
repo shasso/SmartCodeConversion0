@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8d23742d-9158-4945-8370-ac448121c915" name="sargon.hasso@IL67LP031384 2011-05-26 09:31:02" runUser="NA\sargon.hasso" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="730627c6-8274-40ac-888b-2afc4c03d573">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="G:\VS8Projects\SmartCodeConversion0 - Copy\TestResults\sargon.hasso_IL67LP031384 2011-05-26 09_31_02">
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversion\bin\Debug\Arguments.dll" />
+      <DeploymentItem filename="G:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\bin\Debug\codeConversionUsingFSA.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="4" error="0" failed="1" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-05-26T09:31:02.5737663-05:00" queuing="2011-05-26T09:31:04.5753407-05:00" start="2011-05-26T09:31:04.7317137-05:00" finish="2011-05-26T09:31:05.4353922-05:00" />
+  <TestDefinitions>
+    <UnitTest name="getNextNonExistingCharacter" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="a3e1ee41-039f-4677-1883-0cbe577bac8f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5a54815d-d776-4804-8277-2402b36036dc" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="getNextNonExistingCharacter" />
+    </UnitTest>
+    <UnitTest name="retractTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="008903d1-5a0b-bcec-283f-d255b6174f6c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="04edadbd-0631-4657-8ba5-32b141c094f9" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="retractTest" />
+    </UnitTest>
+    <UnitTest name="retractNonExistingCharacter" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="bfba3271-1a4b-93b6-ff27-dd94b8108f65">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="cc19bc8d-7a28-4fcc-a7b9-026dc921b13b" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="retractNonExistingCharacter" />
+    </UnitTest>
+    <UnitTest name="discardTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="861600ed-c94e-307e-3838-c63d2d3223b1">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="951907f9-42dc-442c-bd69-6e2f5ef2bfc2" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="discardTest" />
+    </UnitTest>
+    <UnitTest name="ProcessWordConstructorTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="1a0fda6f-c51e-ea11-5cca-4d300cc1cf48">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b942f07c-acc1-45a8-b31d-4c6b1fdd8f82" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="ProcessWordConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getNextCharTest" storage="g:\vs8projects\smartcodeconversion0 - copy\processwordunittests\bin\debug\processwordunittests.dll" id="c78e8097-cd9c-2f58-604f-03e4634a37f3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3cdf53cd-4fa4-4769-8d4e-b6fed484dd25" />
+      <TestMethod codeBase="G:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\bin\Debug\ProcessWordUnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessWordUnitTests.ProcessWordTest, ProcessWordUnitTests" name="getNextCharTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="008903d1-5a0b-bcec-283f-d255b6174f6c" executionId="04edadbd-0631-4657-8ba5-32b141c094f9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1a0fda6f-c51e-ea11-5cca-4d300cc1cf48" executionId="b942f07c-acc1-45a8-b31d-4c6b1fdd8f82" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="861600ed-c94e-307e-3838-c63d2d3223b1" executionId="951907f9-42dc-442c-bd69-6e2f5ef2bfc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3e1ee41-039f-4677-1883-0cbe577bac8f" executionId="5a54815d-d776-4804-8277-2402b36036dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bfba3271-1a4b-93b6-ff27-dd94b8108f65" executionId="cc19bc8d-7a28-4fcc-a7b9-026dc921b13b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c78e8097-cd9c-2f58-604f-03e4634a37f3" executionId="3cdf53cd-4fa4-4769-8d4e-b6fed484dd25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="04edadbd-0631-4657-8ba5-32b141c094f9" testId="008903d1-5a0b-bcec-283f-d255b6174f6c" testName="retractTest" computerName="IL67LP031384" duration="00:00:00.0216904" startTime="2011-05-26T09:31:04.7942629-05:00" endTime="2011-05-26T09:31:05.3259311-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b942f07c-acc1-45a8-b31d-4c6b1fdd8f82" testId="1a0fda6f-c51e-ea11-5cca-4d300cc1cf48" testName="ProcessWordConstructorTest" computerName="IL67LP031384" duration="00:00:00.0197620" startTime="2011-05-26T09:31:05.3259311-05:00" endTime="2011-05-26T09:31:05.3572057-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at ProcessWordUnitTests.ProcessWordTest.ProcessWordConstructorTest() in H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\ProcessWordTest.cs:line 156
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="951907f9-42dc-442c-bd69-6e2f5ef2bfc2" testId="861600ed-c94e-307e-3838-c63d2d3223b1" testName="discardTest" computerName="IL67LP031384" duration="00:00:00.0274090" startTime="2011-05-26T09:31:05.3572057-05:00" endTime="2011-05-26T09:31:05.3884803-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ProcessWordUnitTests.ProcessWordTest.discardTest threw exception:  System.IndexOutOfRangeException: Index was outside the bounds of the array..</Message>
+          <StackTrace>    at codeConversion.ProcessWord.discard() in H:\VS8Projects\SmartCodeConversion0 - Copy\codeConversionUsingFSA\fsa.cs:line 64
+   at ProcessWordUnitTests.ProcessWordTest.discardTest() in H:\VS8Projects\SmartCodeConversion0 - Copy\ProcessWordUnitTests\ProcessWordTest.cs:line 143
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5a54815d-d776-4804-8277-2402b36036dc" testId="a3e1ee41-039f-4677-1883-0cbe577bac8f" testName="getNextNonExistingCharacter" computerName="IL67LP031384" duration="00:00:00.0018848" startTime="2011-05-26T09:31:05.3884803-05:00" endTime="2011-05-26T09:31:05.3884803-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cc19bc8d-7a28-4fcc-a7b9-026dc921b13b" testId="bfba3271-1a4b-93b6-ff27-dd94b8108f65" testName="retractNonExistingCharacter" computerName="IL67LP031384" duration="00:00:00.0007028" startTime="2011-05-26T09:31:05.3884803-05:00" endTime="2011-05-26T09:31:05.3884803-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3cdf53cd-4fa4-4769-8d4e-b6fed484dd25" testId="c78e8097-cd9c-2f58-604f-03e4634a37f3" testName="getNextCharTest" computerName="IL67LP031384" duration="00:00:00.0001910" startTime="2011-05-26T09:31:05.3884803-05:00" endTime="2011-05-26T09:31:05.4041176-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
