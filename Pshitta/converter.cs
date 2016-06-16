@@ -59,7 +59,7 @@ namespace Pshitta
             ifile = options.ifile;
             ofile = options.ofile;
 
-           // default encoding is set to UT8
+           // default encoding is set to UTF8
             if (options.encoding.ToString().CompareTo("u") == 0)
                 encoding = Encoding.Unicode;
             if (options.encoding.ToString().CompareTo("u32") == 0)
